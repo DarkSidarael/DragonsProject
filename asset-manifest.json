@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/https://DragonsProject/static/css/main.84b7dab1.css",
+    "main.js": "/https://DragonsProject/static/js/main.ba1b4f79.js",
+    "static/media/syrax.jpg": "/https://DragonsProject/static/media/syrax.593a7b1a9d2619ed9553.jpg",
+    "static/media/meleys.webp": "/https://DragonsProject/static/media/meleys.ba96f67d2bb21846d3b8.webp",
+    "static/media/caraxes.webp": "/https://DragonsProject/static/media/caraxes.b7180e87879b39a2a912.webp",
+    "static/media/targeryan.png": "/https://DragonsProject/static/media/targeryan.07aefdc56ff0e5d1d10e.png",
+    "static/media/sunfyre.webp": "/https://DragonsProject/static/media/sunfyre.9e7e48f983a2fa132cbe.webp",
+    "index.html": "/https://DragonsProject/index.html",
+    "main.84b7dab1.css.map": "/https://DragonsProject/static/css/main.84b7dab1.css.map",
+    "main.ba1b4f79.js.map": "/https://DragonsProject/static/js/main.ba1b4f79.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84b7dab1.css",
+    "static/js/main.ba1b4f79.js"
+  ]
+}
