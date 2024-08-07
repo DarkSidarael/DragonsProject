@@ -16,7 +16,7 @@ export class Navbar extends React.Component{
         
               <ul>
                 <li>
-                  <a href="/">H</a>
+                  <a href="/">Home</a>
                 </li>
                 <li>
                   <a href="/">Trending</a>
